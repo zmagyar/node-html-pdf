@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/marcbachmann/node-html-pdf/issues"
   },
-  "homepage": "https://github.com/marcbachmann/node-html-pdf"
+  "homepage": "https://github.com/marcbachmann/node-html-pdf",
+  "dependencies": {
+    "ps-node": "^0.1.2"
+  }
 }
