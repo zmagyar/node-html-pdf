@@ -43,6 +43,6 @@
   },
   "homepage": "https://github.com/marcbachmann/node-html-pdf",
   "dependencies": {
-    "ps-node": "^0.1.2"
+    "debug": "^2.3.2"
   }
 }
